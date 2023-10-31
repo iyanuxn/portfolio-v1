@@ -1,14 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio-v1/static/css/main.19ec3708.css",
-    "main.js": "/portfolio-v1/static/js/main.169559bd.js",
+    "main.css": "/portfolio-v1/static/css/main.ae0a6358.css",
+    "main.js": "/portfolio-v1/static/js/main.50d8a59f.js",
     "static/media/me-2.png": "/portfolio-v1/static/media/me-2.0f7d816fcba87c50013a.png",
-    "static/media/avatar4.jpg": "/portfolio-v1/static/media/avatar4.f06fca54c21ce8c6696a.jpg",
-    "static/media/avatar5.jpg": "/portfolio-v1/static/media/avatar5.990bf8344d8845fea242.jpg",
-    "static/media/avatar1.jpg": "/portfolio-v1/static/media/avatar1.9401f9f9e2eb8bdf0038.jpg",
-    "static/media/avatar3.jpg": "/portfolio-v1/static/media/avatar3.dc791f39f94eae16ba39.jpg",
-    "static/media/avatar2.jpg": "/portfolio-v1/static/media/avatar2.269b737854abaf979d17.jpg",
-    "static/media/CV.pdf": "/portfolio-v1/static/media/CV.a312a8d6a07b139a92e5.pdf",
+    "static/media/CV.pdf": "/portfolio-v1/static/media/CV.e090893ea64aaad57e15.pdf",
     "static/media/portfolio5.png": "/portfolio-v1/static/media/portfolio5.e28d066384c99eb80166.png",
     "static/media/portfolio2.png": "/portfolio-v1/static/media/portfolio2.1b28ceee8be81990500e.png",
     "static/media/portfolio1.png": "/portfolio-v1/static/media/portfolio1.8317498d2143ce0e65a8.png",
@@ -19,11 +14,11 @@
     "static/media/portfolio6.png": "/portfolio-v1/static/media/portfolio6.35199986c308b4ff84bb.png",
     "static/media/portfolio8.png": "/portfolio-v1/static/media/portfolio8.80302e67453f3454ceb1.png",
     "index.html": "/portfolio-v1/index.html",
-    "main.19ec3708.css.map": "/portfolio-v1/static/css/main.19ec3708.css.map",
-    "main.169559bd.js.map": "/portfolio-v1/static/js/main.169559bd.js.map"
+    "main.ae0a6358.css.map": "/portfolio-v1/static/css/main.ae0a6358.css.map",
+    "main.50d8a59f.js.map": "/portfolio-v1/static/js/main.50d8a59f.js.map"
   },
   "entrypoints": [
-    "static/css/main.19ec3708.css",
-    "static/js/main.169559bd.js"
+    "static/css/main.ae0a6358.css",
+    "static/js/main.50d8a59f.js"
   ]
 }
